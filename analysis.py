@@ -5,7 +5,7 @@ pg = psycopg2.connect(
     host="localhost",
     database="ecommerce_analytics",
     user="postgres",
-    password="ashut123"
+    password=""
 )
 
 print("\n===== TOP 10 PRODUCTS BY CONVERSION RATE =====")
