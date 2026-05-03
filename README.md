@@ -27,3 +27,6 @@
 - `analysis.py` → runs all 4 analyses, exports CSVs
 - `dashboard.py` → Streamlit dashboard
 - `schema.sql` → PostgreSQL schema
+
+- 👨‍💻 Author
+Ashutosh Tare | Aspiring ML Engineer | Data Science Enthusiast
