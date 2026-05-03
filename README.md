@@ -28,5 +28,8 @@
 - `dashboard.py` → Streamlit dashboard
 - `schema.sql` → PostgreSQL schema
 
-- 👨‍💻 Author
+
+<h2>👨‍💻 Author</h2>
+
 Ashutosh Tare | Aspiring ML Engineer | Data Science Enthusiast
+
