@@ -31,5 +31,7 @@
 
 <h2>👨‍💻 Author</h2>
 
-Ashutosh Tare | Aspiring ML Engineer | Data Science Enthusiast
+Ashutosh Tare | ML Engineer | Data Science Enthusiast
+
+Rajnandini Shedge | Data Scientist
 
